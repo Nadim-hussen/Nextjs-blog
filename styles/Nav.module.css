@@ -1,0 +1,21 @@
+.nav{
+    background-color: #edf0ed;
+    /* position: sticky; */
+    top: 0;
+    left: 0;
+}
+
+.li{
+    list-style: none;
+    padding: 20px;
+}
+.links {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+    /* margin: auto 40px; */
+}
+.a{
+    text-decoration: none;
+}
